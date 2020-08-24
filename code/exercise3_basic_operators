@@ -1,0 +1,40 @@
+# Exercise 3 - Python Basic Operators
+
+# Store as a number a mathematical calculation that includes addition,
+# subtraction, multiplication and division. Make sure to include
+# at least 2 whole numbers and two decimal numbers. Output the value
+calculation_result = 15.7 + 7 * 5.5 - 9 / 3
+print("Calculation result " + str(calculation_result))
+
+# Use the modulo operator to calculate and store the remainder of 553 % 6
+# in a new variable and then output the value
+remainder_by_modulo = 553 % 6
+print("Remainder by modulo " + str(remainder_by_modulo))
+
+# Store the answer of a squared power relationship and a cubed power
+# relationship in variables and then output the values
+number_squared = 13 ** 2
+number_cubed = 13 ** 3
+print("Squared value of the number 13 = " + str(number_squared))
+print("Cubed value of the number 13 = " + str(number_cubed))
+
+# Using the addition operator store two strings into a variable,
+# concatenating them and output the value of this string variable.
+my_string1 = "I live in"
+my_string2 = "Canada."
+final_string = my_string1 + " " + my_string2
+print("Concatenated string = " + str(final_string))
+
+# Create two lists with 5 elements each. join these two lists using
+# the addition operator. Then, store the two lists in a third
+# variable by joining these two lists using the addition operator.
+# Finally output its value of this third variable.
+my_list1 = [7, 11, 15, 19, 23]
+my_list2 = [4, 8, 12, 16, 20]
+final_list = my_list1 + my_list2
+print("Final list = " + str(final_list))
+
+# Using the multiplication operator output a repeating sequence.
+# There is no need to use a variable here, simply use print function.
+print("Harjap " * 3)
+print([3, 5, 7, 9] * 5)
