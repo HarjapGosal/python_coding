@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Exercise 2
+"""Exercise 2 (Lists in Python)
 Write Python 3 code that, when run, will do the following:
 • Create a list which stores integer numbers. You can choose whatever
  integer values you want. But, make sure to add the elements this way
