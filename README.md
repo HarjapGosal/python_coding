@@ -1,4 +1,4 @@
-## Python Basic Programming Exercises <h2>
+## Python Basics- Some Programming Exercises <h2>
   
 * These are some coding exrecises that would help to understand the basic python programming constructs for a beginner. The topic covered are:
 
