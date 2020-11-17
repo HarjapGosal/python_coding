@@ -1,0 +1,14 @@
+Your age? 17
+Your income? 90000
+You are old enough to work and made enough money.
+Please enter your input Harjap2003
+The entered input by you is: Harjap2003
+Parsing all characters for only digits and alphabetic characters: True
+Parsing all characters for only alphabetic characters: False
+Parsing all characters for only digit characters: False
+Parsing all characters for first word(s) capitalization: True
+Parsing only alphabetic characters for only upper-case characters: False
+Parsing only alphabetic characters for only lower-case characters: False
+Parsing all characters for only spaces: False
+Parsing the last character entered, looking for 'd': False
+Parsing the first character entered, looking for 'H': True
